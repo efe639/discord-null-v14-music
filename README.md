@@ -20,8 +20,8 @@
 # Galeri
 
 <br> </br>
-![Screenshot_2](https://user-images.githubusercontent.com/60463845/187015586-5c8f1ddd-37e4-4a40-88bf-5cb341987617.png)
 ![Screenshot_1](https://user-images.githubusercontent.com/60463845/187015585-49bf3e60-7a1e-4d78-aeb0-9339d5725b81.png)
+![Screenshot_2](https://user-images.githubusercontent.com/60463845/187015586-5c8f1ddd-37e4-4a40-88bf-5cb341987617.png)
 
 
 # SSS
